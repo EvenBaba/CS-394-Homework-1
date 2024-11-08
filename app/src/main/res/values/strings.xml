@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">GamesApp</string>
+    <string-array name="names">
+        <item>Clash Of Clans</item>
+        <item>Clash Royale</item>
+        <item>Minecraft</item>
+        <item>Geometry Dash</item>
+        <item>Subway Surfers</item>
+        <item>Jetpack Joyride</item>
+        <item>Pokemon GO</item>
+        <item>Among Us</item>
+        <item>PUBG Mobile</item>
+        <item>Crossy Road</item>
+        <item>Temple Run</item>
+        <item>Roblox</item>
+        <item>Akinator</item>
+    </string-array>
+    <string-array name="developers">
+        <item>This game centers on building and upgrading a village while defending against enemy attacks. Players join clans, train armies, and strategize in epic battles to claim victory over other clans.</item>
+        <item>A real-time strategy game where players collect and upgrade cards to battle opponents worldwide. With tactics and quick decisions, players aim to outmaneuver each other and climb the ranks.</item>
+        <item>Known for its blocky universe, Minecraft allows players to explore, build, and survive in a vast world. Whether in creative or survival mode, players can mine resources, craft items, and encounter unique adventures.</item>
+        <item>A rhythm-based platformer that combines music with challenging obstacle courses. With precise jumps and perfect timing, players aim to complete levels while enjoying a catchy soundtrack.</item>
+        <item>This endless runner game follows a character dodging trains and obstacles in vibrant subway scenes. Collecting coins and power-ups along the way, players strive to reach new distances.</item>
+        <item>Featuring a high-tech jetpack, players navigate through a lab filled with hazards like lasers and missiles. With coins to collect and missions to complete, each run offers excitement and challenges.</item>
+        <item>An augmented reality game where players encounter Pokémon in real-world locations. By exploring, catching Pokémon, and battling others, players experience the thrill of becoming a Pokémon trainer in their surroundings.</item>
+        <item>Set on a spaceship, crewmates complete tasks while identifying an impostor in their midst. Deception and deduction play key roles as players work to achieve victory, either as crewmates or as the impostor.</item>
+        <item>In this battle royale game, up to 100 players fight to be the last one standing on a vast island. With a variety of weapons and gear, strategic survival and skillful gameplay are crucial to victory.</item>
+        <item>A simple yet addictive game where players guide a character across roads, rivers, and other obstacles. The game challenges timing and reflexes, offering an endless adventure with a classic arcade feel.</item>
+        <item>In this fast-paced adventure, players race through an ancient temple while avoiding traps and obstacles. It’s a test of reflexes and speed as they try to escape the temple’s dangers.</item>
+        <item> An ever-expanding universe where players can explore and play a variety of user-created games or design their own. Roblox encourages creativity and community interaction in a wide range of genres.</item>
+        <item>A guessing game where Akinator uses a series of questions to identify a character the player is thinking of. Known for its surprising accuracy, it’s a fun and engaging experience for all ages.</item>
+    </string-array>
+    <string-array name="releasedates">
+        <item>Developed by Supercell in 2012</item>
+        <item>Developed by Supercell in 2016</item>
+        <item>Developed by Mojang in 2009</item>
+        <item>Developed by Robtop Games in 2013</item>
+        <item>Developed by Sybo Games in 2012</item>
+        <item>Developed by Halfbrick Studios in 2011</item>
+        <item>Developed by Niantic Inc in 2016</item>
+        <item>Developed by Innersloth in 2018</item>
+        <item>Developed by Lightspeed &#38; Quantum Studios in 2018</item>
+        <item>Developed by Hipster Whale in 2014</item>
+        <item>Developed by Imangi Studios in 2011</item>
+        <item>RDeveloped by Roblox Corporation in 2006</item>
+        <item>Developed by Elokence in 2007</item>
+    </string-array>
+
+</resources>
