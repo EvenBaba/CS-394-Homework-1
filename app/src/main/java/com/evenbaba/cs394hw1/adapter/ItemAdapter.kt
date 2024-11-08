@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.evenbaba.cs394hw1.R
-import com.evenbaba.model.cs394hw1.model.Game
+import com.evenbaba.cs394hw1.model.Game
 import com.evenbaba.cs394hw1.GameDetailActivity
 
 class ItemAdapter(private val data: List<Game>): RecyclerView.Adapter<ItemAdapter.ItemViewHolder>() {

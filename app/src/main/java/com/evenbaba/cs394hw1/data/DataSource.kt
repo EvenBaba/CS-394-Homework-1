@@ -2,7 +2,7 @@ package com.evenbaba.cs394hw1.data
 
 import android.content.Context
 import com.evenbaba.cs394hw1.R
-import com.evenbaba.model.cs394hw1.model.Game
+import com.evenbaba.cs394hw1.model.Game
 
 class DataSource(val context: Context) {
     fun getNames(): Array<String>{
